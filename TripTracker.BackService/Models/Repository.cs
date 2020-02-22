@@ -8,6 +8,7 @@ namespace TripTracker.BackService.Models
     public class Repository
     {
 
+//Added this comment for training purpose
         private List<Trip> MyTrips = new List<Trip>
         {
             new Trip
